@@ -26,7 +26,7 @@ Universe-HTT barcode reference
 
 Репозиторий в каталоге DATA содержит данные, разбитые на фрагменты (примерно по 8Мб каждый). Полный файл, упакованный в формате 7z, находится в [релизах](https://github.com/papyrussolution/UhttBarcodeReference/releases).
 
-В качестве благодарности, вы можете отметить звездочкой этот репозиторий, а так же репозиторий [OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus) поскольку именно эту великолепную систему мы используем для администрирования, обработки и обеспечения доступа к данным справочника через портал [Universe-HTT](https://uhtt.ru).
+В качестве благодарности, вы можете отметить звездочкой этот репозиторий, а так же репозиторий [OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus) поскольку именно эту великолепную ERP-систему мы используем для администрирования, обработки и обеспечения доступа к данным справочника через портал [Universe-HTT](https://uhtt.ru).
 
 ---------------------------
 
@@ -51,4 +51,4 @@ In addition, bar codes EAN13 with leading digit 2 (private codes) are practicall
 
 The repository in the DATA directory contains data broken into fragments (approximately 8MB each). The complete file, packed in 7z format, is in [releases](https://github.com/papyrussolution/UhttBarcodeReference/releases).
 
-As a thank you, you can mark this repository with an asterisk, as well as the [OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus) repository, since we use this excellent system for administration, processing and access to the directory data through the portal [Universe-HTT](https://uhtt.ru).
+As gratitude, you can mark this repository with an asterisk, as well as the [OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus) repository, since we use this excellent ERP-system for administration, processing and access to the directory data through the portal [Universe-HTT](https://uhtt.ru).
