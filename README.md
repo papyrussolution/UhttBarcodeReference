@@ -10,13 +10,13 @@ www.petroglif.ru
 
 Оригинал справочника находится на сервере Universe-HTT - здесь мы размещаем его копию, содержащую следующие поля:
 
--- (ID) Идентификатор товара в базе данных Universe-HTT
--- (UPCEAN) Штрихкод
--- (Name) Наименование товара
--- (CategoryID) Идентификатор категории в базе данных Universe-HTT
--- (CategoryName) Наименование категории
--- (BrandID) Идентификатор брэнда в базе данных Universe-HTT
--- (BrandName) Наименование брэнда
+* (ID) Идентификатор товара в базе данных Universe-HTT
+* (UPCEAN) Штрихкод
+* (Name) Наименование товара
+* (CategoryID) Идентификатор категории в базе данных Universe-HTT
+* (CategoryName) Наименование категории
+* (BrandID) Идентификатор брэнда в базе данных Universe-HTT
+* (BrandName) Наименование брэнда
 
 Данные представлены в текстом формате в кодировке UTF-8 с символом табуляции (0x09) в качестве разделителя полей.
 
@@ -31,13 +31,13 @@ Slightly less than 3 million bar codes of ean13, ean8, upc-e, upc-a standards wi
 
 The original directory is located on the Universe-HTT server - here we place its copy containing the following fields:
 
-- (ID) The identifier of the goods in the Universe-HTT database
-- (UPCEAN) Barcode
-- (Name) Product name
-- (CategoryID) Category ID in the Universe-HTT database
-- (CategoryName) Category name
-- (BrandID) Brand identifier in the Universe-HTT database
-- (BrandName) Brand name
+* (ID) The identifier of the goods in the Universe-HTT database
+* (UPCEAN) Barcode
+* (Name) Product name
+* (CategoryID) Category ID in the Universe-HTT database
+* (CategoryName) Category name
+* (BrandID) Brand identifier in the Universe-HTT database
+* (BrandName) Brand name
 
 Data is presented in text format in UTF-8 encoding with a tab (0x09) as a field separator.
 
