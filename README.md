@@ -49,4 +49,6 @@ When creating this directory, only valid UPC / EAN barcodes are extracted from t
 barcodes in this repository are guaranteed to meet the specified standards (which does not exclude some other problems).
 In addition, bar codes EAN13 with leading digit 2 (private codes) are practically absent (without warranty).
 
+The repository in the DATA directory contains data broken into fragments (approximately 8MB each). The complete file, packed in 7z format, is in [releases](https://github.com/papyrussolution/UhttBarcodeReference/releases).
 
+As a thank you, you can mark this repository with an asterisk, as well as the [OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus) repository, since we use this excellent system for administration, processing and access to the directory data through the portal [Universe-HTT](https://uhtt.ru).
