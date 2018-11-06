@@ -43,7 +43,7 @@ Universe-HTT barcode reference
 The largest and most accurate open reference book of bar codes on the Internet! If you do not believe it, the search engines will help dispel doubts.
 Over 3.5 million bar codes of ean13, ean8, upc-e, upc-a standards with corresponding names, brands and categories.
 
-Among other things, the database includes all valid barcodes presented in the [USDA Food Composition Databases (https://ndb.nal.usda.gov/ndb/search/list) (as of August 2018).
+Among other things, the database includes all valid barcodes presented in the [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/search/list) (as of August 2018).
 
 The original directory is located on the Universe-HTT server - here we place its copy containing the following fields:
 
