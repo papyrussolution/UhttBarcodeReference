@@ -1,0 +1,5 @@
+barcode-count=3523712
+brand-count=40214
+categ-count=2520
+word-count=629123
+barcode-ref-bytes-count=569599284
