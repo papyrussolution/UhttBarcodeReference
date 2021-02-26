@@ -5,6 +5,8 @@ Universe-HTT barcode reference
 
 [Компания Петроглиф](http://www.petroglif.ru)
 
+[![OpenPapyrus](http://uhtt.ru/dispatcher/dc/download?key=ad-banner-openpapyrus-ru)](https://github.com/papyrussolution/OpenPapyrus)
+
 Самый большой и аккуратный открытый справочник штрихкодов в интернете! Если не верите - поисковики помогут развеять сомнения.
 Более 4.7 миллионов штрихкодов стандартов ean13,ean8,upc-e,upc-a с соответствующими наименованиями, брэндами и категориями.
 
